@@ -1,0 +1,10 @@
+INSERT INTO gl.your_table (id, name, age, created_at)  VALUES (1, 'Alice', 30, '2025-01-26 10:00:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (2, 'Bob', 25, '2025-01-26 10:10:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (3, 'Charlie', 22, '2025-01-29 10:20:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (4, 'David', 28, '2025-01-26 10:30:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (5, 'Eve', 35, '2025-01-26 10:40:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (6, 'Frank', 40, '2025-01-26 10:50:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (7, 'Grace', 26, '2025-01-26 11:00:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (8, 'Hannah', 29, '2025-01-26 11:10:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (9, 'Isaac', 32, '2025-01-26 11:20:00');
+INSERT INTO your_table (id, name, age, created_at)  VALUES (10, 'Jack', 27, '2025-01-26 11:30:00');
